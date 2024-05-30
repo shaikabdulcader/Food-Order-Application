@@ -98,4 +98,4 @@ To run this project, you need to have MongoDB, Node.js, and npm installed.
 
 ## Feedback
 
-If you have any feedback or questions, feel free to contact us at prakashvs.official@gmail.com.
+If you have any feedback or questions, feel free to contact us at shapvt11@gmail.com.
